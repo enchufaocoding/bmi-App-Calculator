@@ -1,5 +1,5 @@
 ## BMI App Calculator 100% In Kotlin
-# calculator for Body Mass Index
+# Calculator for Body Mass Index
 
 EnchufaoCoding // www.enchufaocoding.com
 
